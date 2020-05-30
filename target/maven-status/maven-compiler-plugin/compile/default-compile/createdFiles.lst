@@ -1,0 +1,13 @@
+com\qa\pages\catlogPage.class
+com\qa\ExtendReportListener\ExtentReporterNG.class
+com\qa\pages\promotionsPage.class
+com\qa\pages\reportPage.class
+com\qa\pages\contentManagemnetPage.class
+com\qa\util\testUtil.class
+com\qa\pages\dashboardPage.class
+com\qa\base\testBase.class
+com\qa\pages\systemPage.class
+com\qa\pages\salesPage.class
+com\qa\pages\customersPage.class
+com\qa\pages\configurationPage.class
+com\qa\pages\loginPage.class
