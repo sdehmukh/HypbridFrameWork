@@ -18,6 +18,8 @@ public class testBase {
             path = System.getProperty("user.dir");
             System.out.println(path);
             prop= new Properties();
+
+            //InputStream in = testBase.class.getResourceAsStream("config.properties");
         File fp=new File(path+"\\src\\main\\java\\com\\qa\\config\\config.properties");
         FileInputStream ip=new FileInputStream(fp);
         prop.load(ip);
